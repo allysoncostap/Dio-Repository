@@ -1,2 +1,3 @@
-# Dio-Repository
-Repositorio do Bootcamp DIO
+# Dio-Repository :100:
+Repositorio do Bootcamp DIO :nerd_face:
+
